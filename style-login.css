@@ -1,0 +1,77 @@
+body {
+	background-color: #99a09e80; 
+	width: 80%;
+	margin: auto;
+}
+
+form{
+	border: 1px solid #B0C4DE;
+	width: 40%;
+	height: auto;
+	padding: 15px;
+	border-radius: 15px 15px 15px 15px;
+	margin: 250px auto;
+	background: white;
+}
+
+button {
+	color: #fff;
+	background: #337ab7;
+	padding: 5px;
+	width: 40%;
+	margin: 10px;
+}
+
+button:hover {
+    opacity: 0.5;
+}
+
+
+input[type=text], input[type=password] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    border-radius: 5px;
+}
+
+.btn{
+	padding: 10px;
+	font-size: 15px;
+	color: white;
+	background: #5F9EA0;
+	border: none;
+	border-radius: 5px;
+	margin-left: 0px;
+}
+
+.cancelbtn {
+	padding: 10px;
+	font-size: 15px;
+	color: white;
+    background-color: #f44336;
+    border: none;
+    border-radius: 5px;
+}
+
+.btn-register{
+	position: absolute;
+	padding: 10px;
+	margin-left: 175px;
+	font-size: 15px;
+	color: white;
+	background: #5F9EA0;
+	border: none;
+	border-radius: 5px;
+	width: 150px;
+}
+
+.logo{
+	display: block;
+	position: absolute;
+	text-align: left;
+	margin-left: 435px;
+	margin-top: -220px;
+}
